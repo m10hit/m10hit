@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Mohit Chauhan
 
 <!--
 **m10hit/m10hit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* :mortar_board: IT and IT Management, University of Sydney
+* :computer: Full Stack Developer
+* :mailbox: reach me out at ---> mohitchauhan10@gmail.com
