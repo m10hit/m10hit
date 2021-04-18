@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 * :mortar_board: IT and IT Management, University of Sydney
 * :computer: Full Stack Developer
 * :mailbox: reach me out at ---> mohitchauhan10@gmail.com
-* 📂: Check my portfolio at ---> https://m10hit.github.io/portfolio/
